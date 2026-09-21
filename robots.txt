@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sqv19l.cn/sitemap.xml

@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8a21da36e9f550067fd67dbf",
+  "owner": "wrhtxava",
+  "repo": "page-3abfe30c8349329a2dc04c62",
+  "title": "Scrssr加速(Scrssr)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3abfe30c8349329a2dc04c62",
+      "a": "Scrssr加速(Scrssr)",
+      "b": "机场官网线路发布页",
+      "entity": "Scrssr加速(Scrssr)",
+      "brand": "Scrssr加速(Scrssr)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6972309ed0e9cac07d07d32b58f20922331aa307f2ac91e233bda6d0ed6ab55e",
+      "content": {
+        "primary_entity": "Scrssr加速(Scrssr)",
+        "keyword1": "Scrssr加速(Scrssr)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择匹配客户端，完成订阅导入后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合的套餐并完成订阅配置，即可开始体验多设备加速。",
+          "AI_CLOSING_TITLE": "开始使用 Scrssr 加速",
+          "AI_DESCRIPTION": "，面向需要稳定访问海外网络资源的用户，提供以订阅方式配置的代理加速服务。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备，并配备 IPLC 专线游戏加速优化；团队版每月 1000GB，支持 20 台设备，可满足企业定制路由与专属客户经理服务。用户可依据自己的设备数量、流量需求与预算，在月付或年付方案中灵活选择，通过各平台客户端导入订阅完成配置。",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，含 100GB 流量，最多 3 台设备同时在线，适合个人轻量使用。旗舰版 ¥35/月，提供 300GB 流量和 5 台设备，并具备 IPLC 游戏加速优化。团队版 ¥85/月，含 1000GB 流量和 20 台设备，可定制企业路由。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。如果需要在手机、电脑、平板等多端同时在线，建议选择设备数量更多的套餐，避免频繁切换登录。",
+          "AI_FAQ_ANSWER_3": "各套餐按月计费。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。年付折算下来比按月支付更实惠，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "通常在对应系统上安装常用的代理客户端，然后将账号订阅链接导入客户端，选择节点并启用加速。不同平台的客户端名称和导入方式略有差异，具体操作可参考相应客户端的说明文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，并覆盖全节点原生流媒体解锁；团队版提供 VIP 专属高带宽节点和企业定制路由。普通线路节点池主要满足日常网页浏览和基础流媒体需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Scrssr 各套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_5": "哪些套餐适合游戏或流媒体？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备到线路等级，按需匹配套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月、旗舰版 300GB/月、团队版 1000GB/月，流量随套餐升级而增加。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；多设备用户可优先考虑旗舰版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付均价更低，如基础版 ¥150/年，适合长期稳定使用的场景。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "按月付或年付",
+          "AI_GUIDE_INTRO": "三步完成从选择到订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Scrssr 加速提供多种套餐选择与订阅制配置方式。根据设备数量和流量需求挑选合适方案，再通过客户端导入订阅，即可在常用设备上启用海外网络加速。",
+          "AI_HERO_SUBTITLE": "多设备套餐，订阅即用",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版最多 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版侧重游戏与流媒体，团队版面向多设备和企业场景。可对比流量、设备数和线路等级来选。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量需求和预算，在基础版、旗舰版、团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐对应的设备支持和线路特性，确认是否符合自己的使用场景。",
+          "AI_STEP_TEXT_3": "在对应系统的客户端中导入订阅链接，选择节点并启用加速。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Scrssr 加速订阅方案"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sqv19l.cn",
+    "host": "sqv19l.cn"
+  },
+  "file_hashes": {
+    "index.html": "95afa1abf2bc13295a844c18ed5f16b4fecf9d9412e2983955bbd3a24da9ce74",
+    "sitemap.xml": "9e9217542f29e599672496c58f45710eb4dca6b0427b5e9e4d8c58c01eec60ec",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8779b6fd48291110fb89c94760495a6bfebfb4179087de962b46e18f31bbaa00",
+    "robots.txt": "7f571eef1e2f30c7778151c97a15dddcbca5b972c6518180daaba4ea51936519",
+    "54dd98f9800475625a143f649e811b8b.txt": "56a7d3e37b9499ef6a652483b3da61a3ccaa0c027d86ec090aadeb56d2570be8"
+  },
+  "revision": "4738f320d332f0b3a2f4ac97450bf2628abd42e400f84cb9c344e518870e3535"
+}
